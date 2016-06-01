@@ -1,10 +1,4 @@
-// c4.c - C in four functions
 
-// char, int, and pointer types
-// if, while, return, and expression statements
-// just enough features to allow self-compilation and a bit more vediamo se c'è
-// ci dovrebbe essere
-// Written by Robert Swierczek
 
 #include <stdio.h>
 #include <stdlib.h>
