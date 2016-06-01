@@ -3,7 +3,6 @@
 // char, int, and pointer types
 // if, while, return, and expression statements
 // just enough features to allow self-compilation and a bit more vediamo se c'è
-// vediamo proprio
 
 // Written by Robert Swierczek
 
