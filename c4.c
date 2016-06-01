@@ -470,7 +470,7 @@ int main(int argc, char **argv)
   *--sp = (int)argv;
   *--sp = (int)t;
 
-  // run...
+  // run... forse
   cycle = 0;
   while (1) {
     i = *pc++; ++cycle;
@@ -512,7 +512,7 @@ int main(int argc, char **argv)
     else if (i == MUL) a = *sp++ *  a;
     else if (i == DIV) a = *sp++ /  a;
     else if (i == MOD) a = *sp++ %  a;
-
+// tange belle cose 
     else if (i == OPEN) a = open((char *)sp[1], *sp);
     else if (i == READ) a = read(sp[2], (char *)sp[1], *sp);
     else if (i == CLOS) a = close(*sp);
