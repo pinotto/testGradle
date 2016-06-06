@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main(void) {
-    printf("New Hello World\n");
+    printf("Jenkins fa la build alla commit e fa il report del terminale di gradle!\n");
     return 0;
 }
